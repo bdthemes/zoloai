@@ -1,0 +1,10 @@
+{
+  "uniqueId": "accordion-gs7zuii7",
+  "parentClasses": ["zolo-editor parent-accordion-gs7zuii7"],
+  "zoloStyles": {
+    "desktop": ".parent-accordion-gs7zuii7 { transition:all 0.3s ease-in-out }.parent-accordion-gs7zuii7:after { transition:all 0.3s ease-in-out }",
+    "tab": "",
+    "mobile": "",
+    "customCss": ""
+  }
+}

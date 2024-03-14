@@ -1,0 +1,11 @@
+{
+  "title": "USA",
+  "uniqueId": "accordion-child-usa2",
+  "parentClasses": ["zolo-editor parent-accordion-child-usa2"],
+  "zoloStyles": {
+    "desktop": ".parent-accordion-child-usa2 { transition:all 0.3s ease-in-out }.parent-accordion-child-usa2:after { transition:all 0.3s ease-in-out }",
+    "tab": "",
+    "mobile": "",
+    "customCss": ""
+  }
+}
