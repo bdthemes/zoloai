@@ -1,17 +1,17 @@
 ## 15-March-2024
 
-## Added
+### Added
 -Llama2 pipeline.
 -Structure of the dataset for four differenet types of single container.
 
 ## 17-March-2024
 
-## Added 
+### Added 
 -Automatic dataset preparation steps have beed added for a simple container
 -500 datapoints of a simple container with one paragraph
 
-## Changed
+### Changed
 -Model source of Code llama2 has been changed
 
-## Removed
+### Removed
 -Previous format of datasets has been removed due manual data processing steps
