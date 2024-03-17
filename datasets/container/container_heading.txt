@@ -1,9 +1,0 @@
-<!-- wp:zolo/container {"variationStatus":true,"isBlockRootParent":true,"FlexDirectionZRPAlign":"column","uniqueId":"container-httr26h1","parentClasses":["zolo-block parent-container-httr26h1"],"zoloStyles":{"desktop":".container-httr26h1.block-editor-block-list__block.wp-block-zolo-container \u003e .zolo-container-inner-blocks-wrap,.wp-block-zolo-container.zolo-root-container.alignfull.container-httr26h1 \u003e .zolo-container-inner-blocks-wrap { max-width:1200px }.is-root-container \u003e .block-editor-block-list__block .block-editor-block-list__block#block-7b5a6b11-fafa-4034-92ff-d1f065bd310c,.wp-block-zolo-container.zolo-root-container.frontend .container-httr26h1 { max-width:100%; width:100% }.container-httr26h1.wp-block-zolo-container \u003e .zolo-container-inner-blocks-wrap \u003e .block-editor-inner-blocks \u003e .block-editor-block-list__layout,.container-httr26h1.wp-block-zolo-container.zolo-root-container.alignfull \u003e .zolo-container-inner-blocks-wrap { gap:20px; flex-direction:column; flex-wrap:nowrap; justify-content:center; align-items:center }","tab":".is-root-container \u003e .block-editor-block-list__block .block-editor-block-list__block#block-7b5a6b11-fafa-4034-92ff-d1f065bd310c,.wp-block-zolo-container.zolo-root-container.frontend .container-httr26h1 { width:100% }","mobile":".is-root-container \u003e .block-editor-block-list__block .block-editor-block-list__block#block-7b5a6b11-fafa-4034-92ff-d1f065bd310c,.wp-block-zolo-container.zolo-root-container.frontend .container-httr26h1 { width:100% }"}} -->
-<div class="wp-block-zolo-container container-httr26h1 alignfull zolo-root-container frontend zolo-block parent-container-httr26h1"><div class="zolo-container-inner-blocks-wrap"><!-- wp:heading -->
-<h2 class="wp-block-heading">This is heading</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:zolo/container -->
