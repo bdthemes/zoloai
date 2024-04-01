@@ -36,7 +36,6 @@ align-items
 "tab"
 block
 "mobile"
-<div class
 wp:paragraph
 <p>
 </p>
@@ -44,4 +43,4 @@ wp:paragraph
 </div>
 /wp:zolo/container
 -->
-block-editor-block-list__block#block-8a4130b5-1364-45b6-9dc4-53e1135edc81
+block-editor-block-list__block#block-

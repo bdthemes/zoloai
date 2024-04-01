@@ -1,0 +1,17 @@
+## For paperspace
+pip install virtualenv
+sudo apt update
+sudo apt upgrade
+sudo apt install python3.10
+virtualenv -p python3.10 zolo-ai
+cd
+cd /notebooks/zolo-ai
+source bin/activate
+pip install ipykernel
+python3.10 -m ipykernel install --user --name=zolo-ai
+pip install -r requirements.txt
+pip install -q accelerate peft bitsandbytes transformers trl
+pip install ipywidgets widgetsnbextension
+jupyter nbextension enable --py widgetsnbextension
+pip install bitsandbytes
+pip install accelerate 

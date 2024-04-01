@@ -1,0 +1,50 @@
+1  python 3.10
+2  python3
+3  clear
+4  python --version
+5  python3 --version
+6  clear
+7  python3 --version
+8  clear
+9  sudo add-apt-repository ppa:deadsnakes/ppa
+10  clear
+11  sudo apt update
+12  sudo apt upgrade
+13  sudo apt-get install python3.10
+14  clear
+15  python3.10
+16  clear
+17  python3 --version
+18  python3.10 --version
+19  clear
+20  sudo sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1
+21  sudo update-alternatives --config python3
+22  python
+23  python3.9
+24  clear
+25  sudo sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1
+26  sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 2
+27  sudo update-alternatives --config python3
+28  python --version
+29  python3 --version
+30  clear
+31  python --version
+32  sudo sudo update-alternatives --install /usr/bin/python python3 /usr/bin/python3.10 1
+33  sudo sudo update-alternatives --install /usr/bin/python python3 /usr/bin/python3.9 2
+34  sudo update-alternatives --config python3
+35  python -v
+36  clear
+37  python
+38  clear
+39  python3 --version
+40  python --version
+41  sudo update-alternatives --config python3
+42  sudo sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 2
+43  sudo sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 1
+44  sudo update-alternatives --config python
+45  sudo update-alternatives --config python3
+46  python3
+47  python3.10 --version
+48  clear
+49  python3
+50  history
