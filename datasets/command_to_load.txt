@@ -1,9 +1,8 @@
 ## For paperspace
-pip install virtualenv
 sudo apt update
 sudo apt upgrade
+pip install virtualenv
 sudo apt install python3.10
-virtualenv -p python3.10 zolo-ai
 cd
 cd /notebooks/zolo-ai
 source bin/activate
@@ -15,3 +14,6 @@ pip install ipywidgets widgetsnbextension
 jupyter nbextension enable --py widgetsnbextension
 pip install bitsandbytes
 pip install accelerate 
+
+nano .bash_profile
+export HT="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"
