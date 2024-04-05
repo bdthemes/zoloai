@@ -1,0 +1,4 @@
+1. Containers specific names.
+2. Relation of changeable parameters with the user input.
+3. Documentation of Zolo blocks as well as other components
+4. Screenshots and corresponding Zolo codes.
