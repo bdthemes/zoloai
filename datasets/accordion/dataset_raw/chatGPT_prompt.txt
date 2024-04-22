@@ -1,0 +1,78 @@
+######################
+Help to write more similar sentences like given below,
+
+Write about smartphones presented in an accordion,  
+Compose an essay discussing internet showcased in a collapsible format.
+Develop a piece discussing the exhibition of 5Gin an accordion-style presentation
+
+#########################
+Generate 30 more in python list format
+
+#########################
+30 more in a python list format. Avoid numbering the sentences
+
+######################
+sentence_list = ["Craft an article exploring the portrayal of social media platforms presented in an accordion format.",
+                 "Compose an essay discussing artificial intelligence showcased in a collapsible manner.",
+                 "Develop a piece discussing the exhibition of virtual reality in an accordion-style presentation.",]
+
+title = ["social media platforms",  "artificial intelligence", "virtual reality"]
+
+Help to generate title like the above approach for the following list in python list format,
+
+############ 
+Craft an article exploring the portrayal of social media platforms in an accordion
+In the vast landscape of digital connectivity, one platform's playground of self-expression is another's breeding ground for disconnection.
+
+Write about cloud computing. In two lines an accordion
+Cloud computing, the ethereal realm of digital innovation, revolutionizes data storage and processing, offering scalability and accessibility beyond the confines of physical infrastructure. Through virtualized resources, it empowers businesses and individuals to harness the boundless potential of the digital universe.
+
+Analyze the portrayal of e-commerce platforms exhibited in two lines an accordion
+E-commerce platforms, depicted as gateways to convenience and limitless choices, showcase a digital marketplace where consumer desires are fulfilled with a click. Yet, lurking beneath the surface, criticisms emerge regarding data privacy, monopolistic tendencies, and the erosion of traditional retail landscapes.
+
+###################
+contents = [ "In the vast landscape of digital connectivity, one platform's playground of self-expression is another's breeding ground for disconnection.", "Cloud computing, the ethereal realm of digital innovation, revolutionizes data storage and processing, offering scalability and accessibility beyond the confines of physical infrastructure. Through virtualized resources, it empowers businesses and individuals to harness the boundless potential of the digital universe.", "E-commerce platforms, depicted as gateways to convenience and limitless choices, showcase a digital marketplace where consumer desires are fulfilled with a click. Yet, lurking beneath the surface, criticisms emerge regarding data privacy, monopolistic tendencies, and the erosion of traditional retail landscapes." ]
+
+generate more like this
+
+#######################
+Help to write more similar sentences like given below,
+
+Generate a advanced button with name Google and URL www.google.com
+
+######################
+100 more in python list format
+sperate out the button names in a python list
+sperate out the URL in a python list
+
+
+###############
+Help to write more similar sentences like those given below,
+
+Discuss about smartphones and 5G.
+Write short notes on 5G and the internet in a container.
+Draft paragraph about mango and banana in a container.
+
+##################
+Help to write more similar sentences like those given below, provide in a python list with 50 sample
+
+Discuss about smartphone, AI and 5G.
+Write short notes on 5G, sattelite and the internet in a container.
+Draft paragraph about mango, lichi and banana in a container.
+
+#################
+Help to write more similar sentences like those given below, provide in a python list with 50 sample
+
+Discuss about smartphone, AI, ML and 5G.
+Write short notes on 5G, satellite, rocket and the internet in a container.
+Draft paragraph about mango, lichi, grape and banana in a container.
+
+#################
+Help to write more similar sentences like those given below, provide in a python list with 50 sample
+
+Discuss about smartphone, AI, ML, Cyber attack, Virus and 5G.
+Write short notes on 5G, satellite, rocket, spaceX, apple and the internet in a container.
+Draft paragraph about mango, lichi, grape, potato, pineapple and banana in a container.
+Draft paragraph about examination, calculator, mouse, glass and watch in a container.
+Write short notes on car, motorbike, aeroplane, bus, boat and train in a container.
+

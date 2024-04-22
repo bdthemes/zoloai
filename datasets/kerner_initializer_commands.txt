@@ -3,12 +3,14 @@ sudo apt update
 sudo apt upgrade
 pip install virtualenv
 sudo apt install python3.10
+virtualenv -p python3.10 zolo-ai
 cd
 cd /notebooks/zolo-ai
 source bin/activate
 pip install ipykernel
 python3.10 -m ipykernel install --user --name=zolo-ai
 pip install -r requirements.txt
+
 pip install -q accelerate peft bitsandbytes transformers trl
 pip install ipywidgets widgetsnbextension
 jupyter nbextension enable --py widgetsnbextension
@@ -17,3 +19,12 @@ pip install accelerate
 
 nano .bash_profile
 export HT="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"
+
+
+# exit python environment
+deactivate
+
+sudo apt-get -y install cuda cuda-drivers
+sudo apt-get -y install cudnn9-cuda-12
+
+zip –r filename.zip directory_name

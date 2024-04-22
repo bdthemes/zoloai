@@ -1,0 +1,8 @@
+### Container
+# {"Block_Name": "Name", "Container_ID": ID, "Paragraph_List":[List of paragraph]}
+
+### Advanced Button
+# {"Block_Name": "Advanced_Button", "Button_Name": "Name", "Button_URL": "URL"}
+
+### Accordion
+# {"Block_Name": "Accordion", "Accordion_Child_Number": Child_Number, "Accordion_Title":[List of Titles], "Accordion_Contents":[List of Contents]}
